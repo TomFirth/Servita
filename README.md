@@ -1,5 +1,5 @@
 # Servita challenge
-[challenge doc](https://gitlab.com/servita-devops-team/DevOnboarding01)
+[Servita challenge doc](https://gitlab.com/servita-devops-team/DevOnboarding01)
 
 ### Expected output design:
 ```
@@ -14,11 +14,11 @@
 ```
 
 ### Problems:
- - `key: start` could be on different levels\
+ - `key: start` could be on different levels
  - valueCodings format?
 
 ### How to use:
-- `npm install`\
-- `npm start`\
-- Open browser or postman and send a get request to (http://localhost:8080)[http://localhost:8080]\
+- `npm install`
+- `npm start`
+- Open browser or send a get request in postman to [http://localhost:8080/aggregate](http://localhost:8080/aggregate)
 - Admire your beautiful json response.
